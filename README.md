@@ -1,5 +1,11 @@
 ### Hi there 👋
 
-I'm the CEO and Co-Founder of Mintere, a digital marketing startup. We're building tools that will revolutionize how businesses find and interact with their customers online. If your company is looking for web design or digital marketing, [reach out](https://mintere.com/work-together).
+I create software and run businesses because code, carefully cultivated, can make the world better.
+
+I'm building [actors.dev](https://actors.dev).
+
+I'm the CEO of [Mintere](https://mintere.com), a digital marketing startup. .
+
+I go to school at [EA Young Academy](https://eayoungacademy.com).
 
 Current stack: Rust, Rails, React, Relay, GraphQL, NodeJS
