@@ -22,6 +22,6 @@ features for our Ruby on Rails incident management platform.
 I'm taking Computer Organization and Architecture [C S 429](https://www.cs.utexas.edu/~sidchat/),
 a class taught in C and Linux.
 
-**Long term project:** I'm playing with building [a new kind of database for disturbed systems](https://github.com/benaubin/rol) in Rust.
+**Long term project:** I'm playing with building [a new kind of database for distributed systems](https://github.com/benaubin/rol) in Rust.
 
 **Play:** I make a bunch of small projects with Rust, React, Next.js and sometimes Relay + GraphQL.
