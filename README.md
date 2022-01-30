@@ -4,7 +4,7 @@ I'm [Ben Aubin](https://benaubin.com), a CS student at [The University of Texas 
 
 I believe code, carefully cultivated, can make the world better. 
 
-My interests lie in designing systems, and the impacts of the products we create.
+My interests lie in designing systems, with consideration to the human impacts of what we create.
 
 > This room and the things in it, and all the other things in this building, in this city, exist because,
 > over and over and over, people imagined things. They daydreamed, they pondered, they made things that
