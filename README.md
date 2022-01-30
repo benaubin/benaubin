@@ -20,7 +20,8 @@ features for our Ruby on Rails incident management platform.
 
 **School:**
 I'm taking Computer Organization and Architecture [C S 429](https://www.cs.utexas.edu/~sidchat/),
-a class taught in C and Linux.
+a class taught in C, assembly and Linux. I recently finished Data Structures [C S 314](https://www.cs.utexas.edu/~scottm/cs314/index.htm),
+a class taught in Java.
 
 **Long term project:** I'm playing with building [a new kind of database for distributed systems](https://github.com/benaubin/rol) in Rust.
 
