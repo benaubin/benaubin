@@ -25,4 +25,4 @@ a class taught in Java.
 
 **Long term project:** I'm playing with building [a new kind of database for distributed systems](https://github.com/benaubin/rol) in Rust.
 
-**Play:** I make a bunch of small projects with Rust, React, Next.js and sometimes Relay + GraphQL.
+**Play:** I make a bunch of [small projects](https://github.com/benaubin?tab=repositories) with Rust, React, Next.js and sometimes Relay + GraphQL.
