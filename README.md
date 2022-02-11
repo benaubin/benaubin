@@ -14,10 +14,6 @@ I'm especially interested in systems programming, as well as giving consideratio
 
 ## current focus(es)
 
-**Work:** 
-I'm a software engineering intern at [Rootly](https://rootly.io/), writing new
-features for our Ruby on Rails incident management platform.
-
 **School:**
 I'm taking Computer Organization and Architecture [C S 429](https://www.cs.utexas.edu/~sidchat/),
 a class taught in C, assembly and Linux. I recently finished Data Structures [C S 314](https://www.cs.utexas.edu/~scottm/cs314/index.htm),
