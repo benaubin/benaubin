@@ -1,6 +1,6 @@
 ## 👋 Hello, internet visitor!
 
-I'm [Ben Aubin](https://benaubin.com), a CS student at [The University of Texas at Austin](https://cs.utexas.edu/~bean)
+I'm [Ben Aubin](https://benaubin.com).
 
 I believe code, carefully cultivated, can make the world better. 
 
